@@ -1,0 +1,7 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    padding: 33px 0 177px 166px;
+    width: 1440px;  
+    box-sizing: border-box;  
+}

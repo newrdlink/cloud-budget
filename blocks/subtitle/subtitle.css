@@ -1,0 +1,9 @@
+@import url(./_place/subtitle_place_video.css);
+@import url(./_place/subtitle_place_download.css);
+@import url(./_place/subtitle_place_contact.css);
+
+.subtitle {
+    font-size: 14px;
+    line-height: 140%;    
+    width: 445px;    
+}

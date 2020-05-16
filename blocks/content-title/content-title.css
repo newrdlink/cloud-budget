@@ -1,0 +1,9 @@
+@import url(./_place/content-title_place_overview.css);
+@import url(./_place/content-title_place_technology.css);
+@import url(./_place/content-title_place_footer.css);
+
+.content-title {   
+font-weight: bolder;
+font-size: 18px;
+line-height: 22px;
+}

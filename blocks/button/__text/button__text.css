@@ -1,0 +1,10 @@
+@import url(./_place/button__text_place_form.css);
+@import url(./_place/button__text_place_header.css);
+
+.button__text {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 17px;
+   
+}

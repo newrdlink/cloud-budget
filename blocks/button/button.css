@@ -1,0 +1,10 @@
+@import url(./__text/button__text.css);
+@import url(./_place/button_place_form.css);
+@import url(./_place/button_place_header.css);
+
+.button {
+    height: 50px;
+    width: 160px;    
+    border-radius: 6px;    
+    /*display: flex;    */
+}

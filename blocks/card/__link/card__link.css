@@ -1,0 +1,8 @@
+.card__link {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 150%;  
+  color: #ed4c5c;
+  margin: 0;
+  text-decoration: none;
+}

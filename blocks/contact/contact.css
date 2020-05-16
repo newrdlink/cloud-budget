@@ -1,0 +1,11 @@
+@import url(./__content/contact__content.css);
+
+.contact {
+    width: 1440px;
+    height: 500px;
+    box-sizing: border-box;
+    background: #fff;
+    padding: 117px 0 0 176px;
+    box-sizing: border-box; 
+    display: flex;
+}

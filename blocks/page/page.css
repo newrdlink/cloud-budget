@@ -1,0 +1,9 @@
+.page {
+    width: 1440px;   
+    min-width: 600px; 
+    background:  #E5E5E5;
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Lato', "Helvetica Neue", "Arial",
+    sans-serif;    
+}

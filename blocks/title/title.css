@@ -1,0 +1,14 @@
+@import url(./_place/title_place_video.css);
+@import url(./_place/title_place_features.css);
+@import url(./_place/title_place_technology.css);
+@import url(./_place/title_place_download.css);
+@import url(./_place/title_place_contact.css);
+
+.title {
+    font-size: 36px;
+    line-height: 43px;        
+    font-weight: bold;        
+}
+
+
+

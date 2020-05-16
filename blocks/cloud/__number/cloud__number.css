@@ -1,0 +1,10 @@
+.cloud__number {
+  font-weight: bold;
+  font-size: 100px;
+  line-height: 120px;
+  text-align: center;
+  margin: 0 0 20px 0;
+  padding: 0;
+  color: rgba(16, 16, 16, 0.08);  
+  z-index: 1;
+}

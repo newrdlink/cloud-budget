@@ -1,0 +1,12 @@
+.video__play {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  border-radius: 50%;
+  transform: translateY(-50%);
+  left: -33px;
+  top: 50%;
+  background: #ED4C5C;
+  display: flex;
+  justify-content: center;
+}

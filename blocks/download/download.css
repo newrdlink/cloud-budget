@@ -1,0 +1,17 @@
+@import url(./__icons/download__icons.css);
+@import url(./__icon/download__icon.css);
+@import url(./__content/download__content.css);
+@import url(./__collage/download__collage.css);
+@import url(./__collage-back/download-collage-back.css);
+@import url(./__collage-back2/download__collage-back2.css);
+@import url(./__collage-main/download__collage-main.css);
+
+
+.download {
+    width: 1440px;
+    height: 500px;
+    background: #ED4C5C;
+    padding: 122px 0 0 165px;
+    box-sizing: border-box;
+    display: flex;
+}

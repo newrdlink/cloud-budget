@@ -1,0 +1,30 @@
+@import url(./_el/form__item_el_first-name.css);
+@import url(./_el/form__item_el_last-name.css);
+@import url(./_el/form__item_el_number.css);
+@import url(./_el/form__item_el_select.css);
+
+.form__item {
+  height: 60px;
+  margin: 0 0 24px 0;
+  padding: 0 0 0 31px;
+  border: 1px solid #333333;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: rgba(28, 19, 67, 0.5);
+  font-family: inherit;
+}
+
+.form__item:focus {
+  outline: none;
+  border: 1px solid #ed4c5c;
+}
+
+.form__item::placeholder {
+  color: rgba(19, 39, 67, 0.5);
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}

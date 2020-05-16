@@ -1,0 +1,9 @@
+@import url(./__el-1/logo__el-1.css);
+@import url(./__el-2/logo__el-2.css);
+
+.logo {
+    /*width: 172px;*/
+    /*height: 29px;*/
+    margin: 0 161px 0 0;
+    display: flex;
+}

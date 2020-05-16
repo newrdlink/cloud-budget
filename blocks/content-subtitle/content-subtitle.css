@@ -1,0 +1,10 @@
+@import url(./_place/content-subtitle_place_overview.css);
+@import url(./_place/content-subtitle_place_technology.css);
+@import url(./_place/content-subtitle_place_footer.css);
+
+.content-subtitle {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+
+}

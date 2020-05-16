@@ -1,0 +1,7 @@
+.button_place_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+@import url(./__lang/user-conf__lang.css);
+@import url(./__button/user-conf__button.css);
+@import url(./__text/user-conf__text.css);
+
+.user-conf {
+    display: flex;
+    align-items: center;
+    position: relative;
+}

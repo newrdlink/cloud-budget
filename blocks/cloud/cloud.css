@@ -1,0 +1,12 @@
+@import url(./__number/cloud__number.css);
+@import url(./__image/cloud__image.css);
+@import url(./__image-box/cloud__image-box.css);
+
+.cloud {
+    height: 256px;
+    width: 256px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;    
+}

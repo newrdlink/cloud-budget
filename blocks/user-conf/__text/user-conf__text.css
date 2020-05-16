@@ -1,0 +1,10 @@
+.user-conf__text {
+  font-size: 14px;
+  text-decoration: none;
+  color: #fff;
+  /*position: absolute;  
+  top: 50%;
+  transform: translateY(-50%);*/
+  height: 14px;
+  padding-bottom: 2px;
+}

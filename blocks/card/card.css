@@ -1,0 +1,9 @@
+@import url(./__foto/card__foto.css);
+@import url(./__content/card__content.css);
+@import url(./__link/card__link.css);
+
+.card {
+width: 350px;
+height: 355px;
+margin: 0 auto;
+}

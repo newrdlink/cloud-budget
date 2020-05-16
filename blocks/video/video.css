@@ -1,0 +1,15 @@
+@import url(./__pleer/video__pleer.css);
+@import url(./__content/video__content.css);
+@import url(./__play/video__play.css);
+@import url(./__play-2/video__play-2.css);
+@import url(./__link/video__link.css);
+
+.video {
+  background: #fff;
+  height: 500px;
+  display: flex;
+  width: 100%;
+  position: relative;
+  padding: 94px 0 0 165px;
+  box-sizing: border-box;
+}

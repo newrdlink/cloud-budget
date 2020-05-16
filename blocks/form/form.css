@@ -1,0 +1,9 @@
+@import url(./__content/form__content.css);
+@import url(./__item/form__item.css);
+@import url(./__user-name/form__user-name.css);
+
+.form {
+  margin: 0;
+  padding: 0;
+  width: 540px;
+}

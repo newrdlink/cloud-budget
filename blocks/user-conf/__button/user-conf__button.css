@@ -1,0 +1,10 @@
+.user-conf__button {
+  border: 1px white solid;
+  border-radius: 6px;
+  width: 100px;
+  height: 40px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

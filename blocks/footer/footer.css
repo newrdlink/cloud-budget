@@ -1,0 +1,16 @@
+@import url(./__content/footer__content.css);
+@import url(./__service-links/footer__service-links.css);
+@import url(./__contacts/footer__contacts.css);
+@import url(./__service-link/footer__service-link.css);
+@import url(./__services/footer__services.css);
+@import url(./__touch/footer__touch.css);
+@import url(./__copyright/footer__copyright.css);
+
+.footer {
+    width: 1440px;
+    height: 435px;
+    background: #FAFAFA;
+    box-sizing: border-box;
+    padding: 85px 0 0 0;
+    /*position: relative;*/
+}

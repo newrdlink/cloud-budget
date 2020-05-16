@@ -1,0 +1,10 @@
+.footer__service-link {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 160%;
+  text-transform: capitalize;
+  color: #000000;
+  text-decoration: none;
+}
